@@ -4,6 +4,9 @@
 This is Library Management project which uses JAVA (GUI and Backend) and MYSQL (Database).
 
 Scope and Objective of Project:-
+![ABOUT](https://github.com/Ronewa112/Library-Assistant-in-Java/assets/110073721/891f58f2-4748-49ec-a9dc-c442d6b487b2)
+![LOGIN](https://github.com/Ronewa112/Library-Assistant-in-Java/assets/110073721/fc9a15e0-24c0-4f40-acb3-f49f9e371565)
+
 
   - The Library Management System allows the Librarian to login using a username and a password to access the system. 
 
